@@ -1,0 +1,15 @@
+ p { color: blueviolet}
+ body{
+       background-color: antiquewhite;
+       font-family: fantasy;
+       font-size: 12;
+       font-style: italic
+   }
+#para{
+    text-align: center;
+    font-size: 20;
+}
+.center{
+    text-align: center;
+    color: brown;
+}
